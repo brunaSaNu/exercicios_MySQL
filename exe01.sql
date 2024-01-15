@@ -1,0 +1,5 @@
+CREATE TABLE tb_classes (
+    id BIGINT AUTO_INCREMENT,
+	tipo VARCHAR(255) NOT NULL,
+    PRIMARY KEY (id)
+);
