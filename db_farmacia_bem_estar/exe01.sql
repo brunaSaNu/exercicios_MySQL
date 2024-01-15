@@ -1,0 +1,5 @@
+CREATE TABLE tb_categorias(
+id BIGINT AUTO_INCREMENT PRIMARY KEY,
+tipo VARCHAR(255),
+exige_receita BOOLEAN
+);
